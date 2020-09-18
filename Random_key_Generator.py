@@ -1,9 +1,6 @@
-import threading
 import random
-import time
 from colorama import init, Fore
 import string
-import ctypes
 import os
 
 init(convert=True)
